@@ -1,0 +1,16 @@
+Clustering is a decentralized solution. Everything is automatic. 
+Data is distributed, moved, rebalanced automatically. Nodes gossip with each other, (though it may cause group isolation).
+
+Sharding is a centralized solution. 
+If we get rid of properties of clustering that we don’t like, sharding is what we get. 
+Data is distributed manually and does not move. Nodes are not aware of each other.
+
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
+http://www.aosabook.org/en/distsys.html
+
+http://dancres.github.io/Pages/
+
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9
+
